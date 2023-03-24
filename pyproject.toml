@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "saCH-o-mator"
+version = "0.1.0"
+description = "Made at GovTech Hackathon 2023"
+authors = ["Oleg Lavrovsky <oleg@datalets.ch>"]
+license = "Creative Commons CC0 Public Domain"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+transformers = "^4.27.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

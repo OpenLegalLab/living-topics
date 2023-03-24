@@ -1,0 +1,56 @@
+    Bereich Bundeskanzler
+        Sektion Planung und Strategie (erarbeitet u. a. zusammen mit den Departementen den Bericht über die Legislaturplanung, die Jahresziele des Bundesrats sowie die jährlichen Geschäftsberichte zuhanden des Parlaments)
+        Sektion Politische Rechte (prüft Volksinitiativen, kontrolliert eingereichte Unterschriftenlisten, organisiert Volksabstimmungen sowie Nationalratswahlen, bearbeitet diesbezügliche Beschwerden)
+        Sektion Krisenmanagementausbildung des Bundes
+        Sektion Akten- und Prozessverwaltung
+        Interne Dienste (Personalmanagement, Finanz- und Rechnungswesen, Logistik, Informatik etc.)
+    Bereich Bundesrat:
+        Sektion Bundesratsgeschäfte (Vor- und Nachbearbeitung der Bundesratssitzungen)
+        Sektion Recht (Kontroll- und Beratungsfunktion im Gesetzgebungsprozess)
+        Zentrale Sprachdienste
+        Kompetenzzentrum Amtliche Veröffentlichungen (KAV) (gibt Bundesblatt, Amtliche Sammlung und Systematische Rechtssammlung des Bundesrechts heraus)
+    Bereich Information und Kommunikation (geleitet von Vizekanzler und Bundesratssprecher André Simonazzi)
+        Sektion Kommunikation (informiert die Medien und die Öffentlichkeit über die Tätigkeit des Bundesrates und der Bundeskanzlei)
+        Sektion Kommunikationsunterstützung
+
+Der Bundeskanzlei administrativ zugeordnet: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter (EDÖB)
+
+Die Bundeskanzlei ist die Stabsstelle des Bundesrats. Sie bereitet die Sitzungen der Regierung vor und informiert über deren Beschlüsse. Sie prüft Volksinitiativen und Referenden auf ihre Rechtmässigkeit und sorgt für die korrekte Durchführung von nationalen Wahlen und Abstimmungen. Sie veröffentlicht amtliche Texte in mehreren Sprachen.
+
+Der Bundeskanzler wird wie die Mitglieder des Bundesrats für vier Jahre vom Parlament gewählt. Als Stabschef des Bundesrats sorgt er für ein einwandfreies Funktionieren der Landesregierung. Zusammen mit den beiden Vizekanzlern nimmt er an den Sitzungen des Bundesrats teil. Der Bundeskanzler kann Anträge zu allen Geschäften des Bundesrats stellen, hat aber kein Stimmrecht.
+Organisation
+
+    Bereich Bundeskanzler (geleitet von Walter Thurnherr, Bundeskanzler)
+        Sektion Politische Rechte: die Sektion Politische Rechte ist zuständig für den Vollzug der Volksrechte, die Vorbereitung der eidgenössischen Urnengänge sowie die Koordination der Einführung der elektronischen Stimmabgabe durch die Kantone.
+
+    Bereich Bundesrat (geleitet von Viktor Rossi, Vizekanzler)
+        Sektion Bundesratsgeschäfte: die Sektion Bundesratsgeschäfte betreut die rund 2500 Geschäfte, welche die Departemente und die BK dem Bundesrat jährlich zur Verabschiedung unterbreiten. Sie verwaltet auch die jährlich rund 1300 parlamentarischen Vorstösse und organisiert deren Beantwortung.
+        Sektion Recht: die Aufgaben der Sektion Recht lassen sich in drei Bereiche einteilen: 1. Rechtsetzungsbegleitung und Begleitung von Bundesratsgeschäften; 2. Betreute Rechtsbereiche: Verwaltungsorganisationsrecht, Vernehmlassungsrecht und Publikationsrecht; 3. Weitere Aufgaben: Weisungen des Bundesrates, die Publikation der VPB, die Leitung der Gruppe der Datenschutzberater der Bundesverwaltung etc.
+        Kompetenzzentrum Amtliche Veröffentlichungen: das Kompetenzzentrum Amtliche Veröffentlichungen (KAV) unterstützt und berät die Bundesämter bei der Bearbeitung der Geschäfte, welche im Bundesblatt oder in der Amtlichen Sammlung veröffentlicht werden müssen.
+        Zentrale Sprachdienste, Sektion Deutsch: die Sektion Deutsch der zentralen Sprachdienste sorgt dafür, dass die Erlasse des Bundes auf allen Stufen präzis, klar, widerspruchsfrei und so einfach wie möglich formuliert sind.
+        Zentrale Sprachdienste, Sektion Französisch: die Sektion Französisch der zentralen Sprachdienste macht Gesetzesredaktion, Übersetzungen und Textrevision. Sie arbeitet für das Parlament, den Bundesrat, die Departemente und die Bundeskanzlei.
+        Zentrale Sprachdienste, Abteilung Italienisch: die Abteilung Italienisch trägt die Verantwortung für die Ausarbeitung der italienischen Fassung der Rechtstexte des Bundes.
+        Zentrale Sprachdienste, Sektion Terminologie: die Sektion Terminologie der zentralen Sprachdienste der Bundeskanzlei stellt die für die gesamte Bundesverwaltung relevante und aktuelle Terminologie in den vier Landessprachen sowie Englisch bereit.
+
+    Bereich Kommunikation und Strategie (geleitet von André Simonazzi, Vizekanzler)
+        Sektion Kommunikation: die Sektion Kommunikation der Bundeskanzlei koordiniert die Kommunikation des Bundesrats gegenüber den Medien, der Öffentlichkeit, den Kantonen und dem Parlament.
+        Sektion Kommunikationsunterstützung: die Sektion ist die Kommunikationsagentur des Bundes. Sie berät und unterstützt die Bundesverwaltung in allen Bereichen der Kommunikation. Die Sektion ist für die Handhabung und Weiterentwicklung des CD Bund verantwortlich.
+        Sektion Strategische Führungsunterstützung: die Sektion Strategische Führungsunterstützung (STF) ist für die Erstellung der Planungs- und Rechenschaftsberichte des Bundesrates verantwortlich und gewährleistet die Krisenmanagementausbildung in der Bundesverwaltung.
+        Präsidialdienst: der bei der Bundeskanzlei angesiedelte Präsidialdienst unterstützt das Departement der Bundespräsidentin oder des Bundespräsidenten bei Aufgaben, die in einem Präsidialjahr zusätzlich anfallen. Der Präsidialdienst berät das Departement der Bundespräsidentin oder des Bundespräsidenten insbesondere in Fragen der Diplomatie und der Kommunikation.
+
+    Bereich Interne Dienste (geleitet von Jörg de Bernardi, Leiter Interne Dienste)
+        Integrale Sicherheit: der Bereich Integrale Sicherheit ist verantwortlich für die Gebäude-, Personen- und Informationssicherheit sowie das Risikomanagement inkl. Business Continuity Management (BCM).
+        Service Center Informatik: das Service Center Informatik unterstützt die Bundeskanzlei bei der Aufgabenerfüllung durch Informatik und Telekommunikation und bietet Informatik-Wissen an.
+        Sektion Personal und Ressourcen: die Sektion Personal und Ressourcen ist verantwortlich für Personalmanagement und Ausbildung, Finanzen- und Rechnungswesen, Legalisationen sowie Anlassmanagement von Wattenwyl Haus, Landsitz Lohn.
+        Fachstelle Personensicherheitsprüfungen: die Sektion Personal und Ressourcen ist verantwortlich für Personalmanagement und Ausbildung, Finanzen- und Rechnungswesen, Legalisationen sowie Anlassmanagement von Wattenwyl Haus, Landsitz Lohn.
+        Sektion Geschäftsverwaltung und Logistik: die Sektion GEVER&Log bietet den Mitarbeitenden der Bundeskanzlei Dienstleistungen im Bereich der Geschäftsverwaltung (GEVER) wie die Zustellung von erhaltenen Schreiben, E-Mails, die Aus- und Weiterbildung in der GEVER-Applikation und im Bereich der Logistik und des Weibeldiensts für den Bundeskanzler.
+
+    Stab Bundeskanzler (geleitet von Rahel Galliker)
+        Der Stab Bundeskanzler unterstützt den Bundeskanzler und die Vizekanzler in allen organisatorischen und administrativen Belangen.
+
+    Eidg. Datenschutz- und Öffentlichkeitsbeautragter (Adrian Lobsiger)
+        Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) ist für das Bundesgesetz über den Datenschutz und für das Bundesgesetz über das Öffentlichkeitsprinzip in der Verwaltung zuständig.
+
+Geschichte
+
+Die Bundeskanzlei ist die älteste ständige Bundesbehörde der Schweiz. 1803 wurde Jean-Marc Mousson zum ersten Eidgenössischen Kanzler gewählt. Die Kanzlei, die er zu führen hatte, war zuständig für die Traktandenlisten, Korrespondenz und Beschlüsse der Tagsatzung. Er musste dabei jährlich mitsamt der Kanzlei und dem Archiv in den jeweiligen Vorort der Eidgenossenschaft ziehen, der jährlich aus den Orten Freiburg, Bern, Solothurn, Basel, Zürich und Luzern gewählt wurde (siehe auch: Médiationsverfassung der Schweiz). Ab 1815 blieben nur noch die Vororte Zürich, Bern und Luzern und der Umzug erfolgte «nur» noch alle zwei Jahre. Dem Kanzler stand ein Eidgenössischer Staatsschreiber zur Seite, der nicht derselben Konfession wie der Kanzler angehören durfte. Mit der Ausarbeitung der Bundesverfassung und Gründung des Bundesstaates von 1848 wurde der Kanzler zum Bundeskanzler ernannt und der Staatsschreiber durch einen Vizekanzler ersetzt. Die Wahl des Bundeskanzlers erfolgt seit daher durch die Bundesversammlung. 1896 kam ein zweiter Vizekanzler hinzu. Bis 1918 betreute die Bundeskanzlei auch die Sekretariate der Eidgenössischen Räte. Diese Aufgabe wird heute von den Parlamentsdiensten wahrgenommen. Der Mitarbeiterbestand der Bundeskanzlei stieg von 192 im Jahr 2008 auf 250 im Jahr 2011. Heute arbeiten ca. 340 Mitarbeiter in der Bundeskanzlei.[1] 
