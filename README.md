@@ -28,7 +28,9 @@ We begin at the top. Helpfully, the Federal Chancellery produces an illustrated 
 ![](https://i.imgur.com/r3YmGl8.jpg)
 _[172.010.1 Government and Administrative Organization Ordinance](https://www.fedlex.admin.ch/eli/cc/1999/170/de#annex_1/lvl_u1)_
 
-The [FEDLEX](https://www.fedlex.admin.ch/) service provides us the legal documents that serve as the mandated basis for the administrations. We find the interface clumsy, and the document layouts not machine-readable. Even when we export the XML version, we get impractical HTML tables inside. What does 'the Internet' have to say about this?
+The [FEDLEX](https://www.fedlex.admin.ch/) service provides us the legal documents that serve as the mandated basis for the administrations. We find the interface clumsy, and the document layouts not machine-readable. Even when we export the XML version, we get impractical HTML tables inside. Nevertheless, our discussion leads us to explore the [State Calendar](https://staatskalender.admin.ch/) as an alternative source of hierarchical structure, which leads us to quickly updating a long overdue [public bodies](https://github.com/OpendataCH/public_bodies_of_the_swiss_federation/issues/1) open data source.
+
+What does 'the Internet' have to say about all this?
 
 ![](https://i.imgur.com/D2u4cQq.png)
 _Screenshot of ChatGPT by OpenAI._
