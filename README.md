@@ -2,11 +2,11 @@
 
 TL;DR: In this hackathon experiment, we examine data describing Swiss government functions, comparing results with Wikipedia and media sources. Some notebooks with initial set-up for machine learning, along with results of crawl, can be found in this repository.
 
+See also:
+
 - [Challenge page](https://hack.opendata.ch/project/946)
 - [TERMDAT API](https://www.i14y.admin.ch/de/catalog/dataservices/ff0c37eb-2f7c-4ff6-996e-d22b77bf52fc)
 - [Mediawiki API](https://www.mediawiki.org/wiki/API:Search)
-
-Team: Oleg, Fruzsina, Raphaël
 
 ## Hackathon journey
 
